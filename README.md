@@ -151,6 +151,3 @@ generate_practice_sheet(
 - Stroke rendering depends on the external JSONL dataset and the SVG rasterisation path.
 - The script is designed for printable worksheets, not for interactive stroke animation.
 
-## License and attribution
-
-Stroke data format and source are based on the Make Me a Hanzi project. Check the upstream repository for its data license and attribution requirements before redistribution.
