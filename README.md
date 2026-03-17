@@ -1,6 +1,11 @@
+# 中文字練習字帖產生器
+
+此儲存庫提供一支 R 腳本，用於產生可列印的中文手寫練習字帖 PDF。每一列由帶有中央輔助線的方格組成。第一個方格會根據筆畫資料顯示完整字形，後續方格則可依序顯示筆順描紅，剩餘方格保留為空白，供書寫練習使用。
+
 # Chinese Character Practice Sheet Generator
 
 This repository provides an R script that generates printable Chinese handwriting practice sheets as PDF files. Each row contains square cells with center guide lines. The first cell shows the complete character using stroke data, and the next cells can show incremental stroke-order tracing. Remaining cells are left blank for writing practice.
+
 
 ## Features
 
